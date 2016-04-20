@@ -1,0 +1,8 @@
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\ColorBoxes\ColorBoxes\bin\Debug\ColorBoxes.exe.config
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\ColorBoxes\ColorBoxes\bin\Debug\ColorBoxes.exe
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\ColorBoxes\ColorBoxes\bin\Debug\ColorBoxes.pdb
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\ColorBoxes\ColorBoxes\obj\Debug\ColorBoxes.frmMain.resources
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\ColorBoxes\ColorBoxes\obj\Debug\ColorBoxes.Properties.Resources.resources
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\ColorBoxes\ColorBoxes\obj\Debug\ColorBoxes.csproj.GenerateResource.Cache
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\ColorBoxes\ColorBoxes\obj\Debug\ColorBoxes.exe
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\ColorBoxes\ColorBoxes\obj\Debug\ColorBoxes.pdb
